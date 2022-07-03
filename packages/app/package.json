@@ -1,0 +1,17 @@
+{
+  "version": "0.0.0",
+  "name": "app",
+  "main": "index.ts",
+  "dependencies": {
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "react-native-maps": "0.29.4",
+    "@teovilla/react-native-web-maps": "^0.2.2",
+    "expo-location": "~14.0.1",
+    "dripsy": "^3.6.0",
+    "expo-linking": "^3.0.0",
+    "moti": "canary",
+    "solito": "latest"
+  },
+  "sideEffects": false
+}
